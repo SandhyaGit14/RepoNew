@@ -22,6 +22,7 @@ public class AddStringNums {
 	        res=a.add(b);	        
 	        System.out.println( res.toString()); //add
 	         
+	        System.out.println("Om 1");
 	     }
 
 	}

@@ -12,7 +12,7 @@ public class DuplicatesInArray {
 				}
 			}
 		}
-
+		System.out.println("Om 2");
 	}
 
 }
