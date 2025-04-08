@@ -8,6 +8,8 @@ public class VowelsTest {
 		
 		s1 = str.replaceAll("[aeiou]", "");
 		System.out.println(s1);
+		
+		System.out.println("Jai Ganesh Vowels");
 	}
 
 }
