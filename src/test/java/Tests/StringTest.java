@@ -9,6 +9,9 @@ public class StringTest {
         	System.out.println("String isn't empty");
         }
 		
+        System.out.println("Git Post 1");
+        System.out.println("Git Post 2");
+        System.out.println("Git Post 3");
     }
 	
 	public static void main(String[] args) {
