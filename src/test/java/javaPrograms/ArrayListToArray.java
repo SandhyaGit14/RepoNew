@@ -29,7 +29,8 @@ public class ArrayListToArray {
 		System.out.println();
 		System.out.println("To List " +l1);
 		
-		
+		System.out.println();
+		System.out.println("To List 22222 " +l1);
 
 	}
 
